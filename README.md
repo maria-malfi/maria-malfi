@@ -1,16 +1,17 @@
-### Hi there 👋
+### Boa vindas ao meu perfil 💙
 
-<!--
-**maria-malfi/maria-malfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Eduarda Amalfi
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura]
+- Estou me desenvolvendo na linguagem JavaScript HTML/CSS Metologia Mobile First
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você entra  em contato comigo 📬
+
+- maria.amalfi.silva@escola.pr.gov.br
+- 
+- @maria-malfi
+
+
+  ![image](https://github.com/maria-malfi/maria-malfi/assets/128652455/5871b624-fd07-47f1-b4b2-c065cdc91595)
+
