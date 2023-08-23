@@ -2,7 +2,7 @@
 
 Meu nome é Maria Eduarda Amalfi
 
-- Estou estudando na [Alura] (https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou aprendendo a  desenvolver paginas  na linguagem JavaScript HTML/CSS Metologia Mobile First
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
